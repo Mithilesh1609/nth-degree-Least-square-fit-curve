@@ -24,3 +24,14 @@ Here is the sample data is given:
 | 17 | 181 |62 |
 | 18 | 177 |57 |
 | 19 | 140 |80 |
+
+**Equations**
+
+W = a*(H^2) + b*(H) + c
+Here a,b,c is constant values.
+
+**Results**
+
+After running the code you will get a = 0.003703, b = -1.288406, c = 176.578090
+
+
