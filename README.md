@@ -33,6 +33,6 @@ Here A,B,C is constant values.
 
 **Results**
 
-After running the code you will get values of constants are: **a = 0.003703, b = -1.288406, c = 176.578090**
+After running the code you will get values of constants are: **A = 0.003703, B = -1.288406, C = 176.578090**
 
 
