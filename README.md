@@ -28,11 +28,11 @@ Here is the sample data is given:
 
 **Equations**
 
-W = a*(H^2) + b*(H) + c
-Here a,b,c is constant values.
+**W = A*(H^2) + B*(H) + C**
+Here A,B,C is constant values.
 
 **Results**
 
-After running the code you will get a = 0.003703, b = -1.288406, c = 176.578090
+After running the code you will get values of constants are: **a = 0.003703, b = -1.288406, c = 176.578090**
 
 
